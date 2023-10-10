@@ -4,3 +4,7 @@ def calu() -> None:
 
 if __name__ == "__main__":
     calu()
+    
+    """
+    練習
+    """
